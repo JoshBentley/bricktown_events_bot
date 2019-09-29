@@ -1,0 +1,298 @@
+{
+	"events": [
+		{
+			"id": "che10042019",
+			"name": "Chris Stapleton",
+			"date": "10-04-2019",
+			"time": "7:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/chris-stapleton-10-04-2019"
+		},
+		{
+			"id": "che10102019",
+			"name": "OKC Thunder vs. Sky Sport NZ Breakers",
+			"date": "10-10-2019",
+			"time": "7:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/101019okcthunder"
+		},
+		{
+			"id": "che10112019",
+			"name": "MUMFORD & SONS",
+			"date": "10-11-2019",
+			"time": "7:30pm",
+			"info": "https://www.chesapeakearena.com/events/detail/mumford-and-sons-10-11-19"
+		},
+		{
+			"id": "che10162019",
+			"name": "OKC Thunder vs. Memphis Grizzlies",
+			"date": "10-16-2019",
+			"time": "7:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/101619okcthunder"
+		},
+		{
+			"id": "che10232019",
+			"name": "GUNS N' ROSES",
+			"date": "10-23-2019",
+			"time": "7:30pm",
+			"info": "https://www.chesapeakearena.com/events/detail/guns-n-roses-10-23-2019"
+		},
+		{
+			"id": "che10252019",
+			"name": "OKC Thunder vs. Washington Wizards",
+			"date": "10-25-2019",
+			"time": "7:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/102519okcthunder"
+		},
+		{
+			"id": "che10272019",
+			"name": "OKC Thunder vs. Golden State Warriors",
+			"date": "10-27-2019",
+			"time": "2:30pm",
+			"info": "https://www.chesapeakearena.com/events/detail/102719okcthunder"
+		},
+		{
+			"id": "che10292019",
+			"name": "JOE BONAMASSA",
+			"date": "10-29-2019",
+			"time": "8:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/joe-bonamassa-10-29-19"
+		},
+		{
+			"id": "che10302019",
+			"name": "OKC Thunder vs. Portland Trail Blazers",
+			"date": "10-30-2019",
+			"time": "7:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/103019okcthunder"
+		},
+		{
+			"id": "che11022019",
+			"name": "OKC Thunder vs. New Orleans Pelicans",
+			"date": "11-02-2019",
+			"time": "4:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/110219okcthunder"
+		},
+		{
+			"id": "che11042019",
+			"name": "Post Malone",
+			"date": "11-04-2019",
+			"time": "8:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/post-malone-11-04-2019"
+		},
+		{
+			"id": "che11052019",
+			"name": "OKC Thunder vs. Orlando Magic",
+			"date": "11-05-2019",
+			"time": "7:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/110519okcthunder"
+		},
+		{
+			"id": "che11082019",
+			"name": "Chris Young",
+			"date": "11-08-2019",
+			"time": "7:30pm",
+			"info": "https://www.chesapeakearena.com/events/detail/chris-young-raised-on-country-tour-11-08-2019"
+		},
+		{
+			"id": "che11092019",
+			"name": "OKC Thunder vs. Golden State Warriors",
+			"date": "11-09-2019",
+			"time": "7:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/110919okcthunder"
+		},
+		{
+			"id": "che11102019",
+			"name": "OKC Thunder vs. Milwaukee Bucks",
+			"date": "11-10-2019",
+			"time": "6:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/111019okcthunder"
+		},
+		{
+			"id": "che11142019",
+			"name": "The Chainsmokers",
+			"date": "11-14-2019",
+			"time": "7:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/the-chainsmokers-11-14-2019"
+		},
+		{
+			"id": "che11152019",
+			"name": "OKC Thunder vs. Philadelphia 76ers",
+			"date": "11-15-2019",
+			"time": "7:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/111519okcthunder"
+		},
+		{
+			"id": "che11222019",
+			"name": "OKC Thunder vs. Los Angeles Lakers",
+			"date": "11-22-2019",
+			"time": "7:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/112219okcthunder"
+		},
+		{
+			"id": "che11292019",
+			"name": "OKC Thunder vs. New Orleans Pelicans",
+			"date": "11-29-2019",
+			"time": "7:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/112919okcthunder"
+		},
+		{
+			"id": "cox09272019",
+			"name": "CannaCon",
+			"date": "09-27-2019",
+			"time": "10:00 AM",
+			"info": "https://www.coxconventioncenter.com/events/detail/2019-cannacon-oklahoma-city"
+		},
+		{
+			"id": "cox09282019",
+			"name": "CannaCon",
+			"date": "09-28-2019",
+			"time": "10:00 AM",
+			"info": "https://www.coxconventioncenter.com/events/detail/2019-cannacon-oklahoma-city"
+		},
+		{
+			"id": "cox1032019",
+			"name": "OTA Encyclomedia",
+			"date": "10-3-2019",
+			"time": "10:04 AM",
+			"info": "https://www.coxconventioncenter.com/events/detail/ota-encyclomedia"
+		},
+		{
+			"id": "cox1042019",
+			"name": "OTA Encyclomedia",
+			"date": "10-4-2019",
+			"time": "10:04 AM",
+			"info": "https://www.coxconventioncenter.com/events/detail/ota-encyclomedia"
+		},
+		{
+			"id": "cox10112019",
+			"name": "Living Proof Live",
+			"date": "10-11-2019",
+			"time": "7:00 PM",
+			"info": "https://www.coxconventioncenter.com/events/detail/living-proof-live-okc"
+		},
+		{
+			"id": "cox10122019",
+			"name": "Living Proof Live",
+			"date": "10-12-2019",
+			"time": "7:00 PM",
+			"info": "https://www.coxconventioncenter.com/events/detail/living-proof-live-okc"
+		},
+		{
+			"id": "cox10182019",
+			"name": "Oklahoma Cannabis Expo",
+			"date": "10-18-2019",
+			"time": "9:00 AM",
+			"info": "https://www.coxconventioncenter.com/events/detail/oklahoma-cannabis-expo"
+		},
+		{
+			"id": "cox10192019",
+			"name": "Oklahoma Cannabis Expo",
+			"date": "10-19-2019",
+			"time": "9:00 AM",
+			"info": "https://www.coxconventioncenter.com/events/detail/oklahoma-cannabis-expo"
+		},
+		{
+			"id": "cox10202019",
+			"name": "Oklahoma Cannabis Expo",
+			"date": "10-20-2019",
+			"time": "9:00 AM",
+			"info": "https://www.coxconventioncenter.com/events/detail/oklahoma-cannabis-expo"
+		},
+		{
+			"id": "cox10222019",
+			"name": "InnoTech Oklahoma",
+			"date": "10-22-2019",
+			"time": "7:00 PM",
+			"info": "https://www.coxconventioncenter.com/events/detail/innotech-oklahoma"
+		},
+		{
+			"id": "cox10252019",
+			"name": "Paw Patrol LIVE!",
+			"date": "10-25-2019",
+			"time": "7:00 PM",
+			"info": "https://www.coxconventioncenter.com/events/detail/paw-patrol-live-2019"
+		},
+		{
+			"id": "cox10262019",
+			"name": "Paw Patrol LIVE!",
+			"date": "10-26-2019",
+			"time": "7:00 PM",
+			"info": "https://www.coxconventioncenter.com/events/detail/paw-patrol-live-2019"
+		},
+		{
+			"id": "cox10272019",
+			"name": "Paw Patrol LIVE!",
+			"date": "10-27-2019",
+			"time": "7:00 PM",
+			"info": "https://www.coxconventioncenter.com/events/detail/paw-patrol-live-2019"
+		},
+		{
+			"id": "cox1172019",
+			"name": "Mistletoe Market",
+			"date": "11-7-2019",
+			"time": "6:00 PM",
+			"info": "https://www.coxconventioncenter.com/events/detail/mistletoe-market-okc"
+		},
+		{
+			"id": "cox1182019",
+			"name": "Mistletoe Market",
+			"date": "11-8-2019",
+			"time": "9:00 AM",
+			"info": "https://www.coxconventioncenter.com/events/detail/mistletoe-market-okc"
+		},
+		{
+			"id": "cox1192019",
+			"name": "Mistletoe Market",
+			"date": "11-9-2019",
+			"time": "9:00 AM",
+			"info": "https://www.coxconventioncenter.com/events/detail/mistletoe-market-okc"
+		},
+		{
+			"id": "cox11102019",
+			"name": "Mistletoe Market",
+			"date": "11-10-2019",
+			"time": "9:00 AM",
+			"info": "https://www.coxconventioncenter.com/events/detail/mistletoe-market-okc"
+		},
+		{
+			"id": "cox11132019",
+			"name": " 2019 OHA Convention & Trade Show",
+			"date": "11-13-2019",
+			"time": "7:00 PM",
+			"info": "https://www.coxconventioncenter.com/events/detail/2019-oha-convention-and-trade-show"
+		},
+		{
+			"id": "cox11142019",
+			"name": " 2019 OHA Convention & Trade Show",
+			"date": "11-14-2019",
+			"time": "7:00 PM",
+			"info": "https://www.coxconventioncenter.com/events/detail/2019-oha-convention-and-trade-show"
+		},
+		{
+			"id": "cox11152019",
+			"name": " 2019 OHA Convention & Trade Show",
+			"date": "11-15-2019",
+			"time": "7:00 PM",
+			"info": "https://www.coxconventioncenter.com/events/detail/2019-oha-convention-and-trade-show"
+		},
+		{
+			"id": "cox11192019",
+			"name": "DUG Midcontinent Conference & Exhibition",
+			"date": "11-19-2019",
+			"time": "7:00 PM",
+			"info": "https://www.coxconventioncenter.com/events/detail/dug-midcontinent-conference"
+		},
+		{
+			"id": "cox11202019",
+			"name": "DUG Midcontinent Conference & Exhibition",
+			"date": "11-20-2019",
+			"time": "7:00 PM",
+			"info": "https://www.coxconventioncenter.com/events/detail/dug-midcontinent-conference"
+		},
+		{
+			"id": "cox11212019",
+			"name": "DUG Midcontinent Conference & Exhibition",
+			"date": "11-21-2019",
+			"time": "7:00 PM",
+			"info": "https://www.coxconventioncenter.com/events/detail/dug-midcontinent-conference"
+		}
+	]
+}
