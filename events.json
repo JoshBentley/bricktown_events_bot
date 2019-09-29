@@ -134,6 +134,272 @@
 			"info": "https://www.chesapeakearena.com/events/detail/112919okcthunder"
 		},
 		{
+			"id": "che12042019",
+			"name": "OKC Thunder vs. Indiana Pacers",
+			"date": "12-04-2019",
+			"time": "7:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/120419okcthunder"
+		},
+		{
+			"id": "che12052019",
+			"name": "The Price is Right Live",
+			"date": "12-05-2019",
+			"time": "7:30pm",
+			"info": "https://www.chesapeakearena.com/events/detail/the-price-is-right-live-12-05-2019"
+		},
+		{
+			"id": "che12062019",
+			"name": "OKC Thunder vs. Minnesota Timberwolves",
+			"date": "12-06-2019",
+			"time": "7:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/120619okcthunder"
+		},
+		{
+			"id": "che12082019",
+			"name": "Trans-Siberian Orchestra",
+			"date": "12-08-2019",
+			"time": "3:00pm, 7:30pm",
+			"info": "https://www.chesapeakearena.com/events/detail/tso2019"
+		},
+		{
+			"id": "che12162019",
+			"name": "OKC Thunder vs. Chicago Bulls",
+			"date": "12-16-2019",
+			"time": "7:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/121619okcthunder"
+		},
+		{
+			"id": "che12182019",
+			"name": "OKC Thunder vs. Memphis Grizzlies",
+			"date": "12-18-2019",
+			"time": "7:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/121819okcthunder"
+		},
+		{
+			"id": "che12202019",
+			"name": "OKC Thunder vs. Phoenix Suns",
+			"date": "12-20-2019",
+			"time": "7:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/122019okcthunder"
+		},
+		{
+			"id": "che12222019",
+			"name": "OKC Thunder vs. Los Angeles Clippers",
+			"date": "12-22-2019",
+			"time": "6:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/122219okcthunder"
+		},
+		{
+			"id": "che12262019",
+			"name": "OKC Thunder vs. Memphis Grizzlies",
+			"date": "12-26-2019",
+			"time": "7:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/122619okcthunder"
+		},
+		{
+			"id": "che12312019",
+			"name": "OKC Thunder vs. Dallas Mavericks",
+			"date": "12-31-2019",
+			"time": "7:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/123119okcthunder"
+		},
+		{
+			"id": "che01092020",
+			"name": "OKC Thunder vs. Houston Rockets",
+			"date": "01-09-2020",
+			"time": "8:30pm",
+			"info": "https://www.chesapeakearena.com/events/detail/010920okcthunder"
+		},
+		{
+			"id": "che01112020",
+			"name": "OKC Thunder vs. Los Angeles Lakers",
+			"date": "01-11-2020",
+			"time": "7:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/011120okcthunder"
+		},
+		{
+			"id": "che01152020",
+			"name": "OKC Thunder vs. Toronto Raptors",
+			"date": "01-15-2020",
+			"time": "7:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/011520okcthunder"
+		},
+		{
+			"id": "che01172020",
+			"name": "OKC Thunder vs. Miami Heat",
+			"date": "01-17-2020",
+			"time": "7:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/011720okcthunder"
+		},
+		{
+			"id": "che01182020",
+			"name": "OKC Thunder vs. Portland Trail Blazers",
+			"date": "01-18-2020",
+			"time": "8:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/011820okcthunder"
+		},
+		{
+			"id": "che01192020",
+			"name": "PJ MASKS LIVE! SAVE THE DAY",
+			"date": "01-19-2020",
+			"time": "2:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/pjmaskslive2020"
+		},
+		{
+			"id": "che01242020",
+			"name": "OKC Thunder vs. Atlanta Hawks",
+			"date": "01-24-2020",
+			"time": "7:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/012420okcthunder"
+		},
+		{
+			"id": "che01272020",
+			"name": "OKC Thunder vs. Dallas Mavericks",
+			"date": "01-27-2020",
+			"time": "7:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/012720okcthunder"
+		},
+		{
+			"id": "che02042020",
+			"name": "TobyMac",
+			"date": "02-04-2020",
+			"time": "TBA",
+			"info": "https://www.chesapeakearena.com/events/detail/tobymac20"
+		},
+		{
+			"id": "che02052020",
+			"name": "OKC Thunder vs. Cleveland Cavaliers",
+			"date": "02-05-2020",
+			"time": "7:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/020520okcthunder"
+		},
+		{
+			"id": "che02072020",
+			"name": "OKC Thunder vs. Detroit Pistons",
+			"date": "02-07-2020",
+			"time": "7:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/020720okcthunder"
+		},
+		{
+			"id": "che02092020",
+			"name": "OKC Thunder vs. Boston Celtics",
+			"date": "02-09-2020",
+			"time": "2:30pm",
+			"info": "https://www.chesapeakearena.com/events/detail/021120okcthunder"
+		},
+		{
+			"id": "che02112020",
+			"name": "OKC Thunder vs. San Antonio Spurs",
+			"date": "02-11-2020",
+			"time": "7:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/021120okcthunder-1"
+		},
+		{
+			"id": "che02152020",
+			"name": "Monster Jam",
+			"date": "02-15-2020",
+			"time": "1:00pm, 7:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/monsterjam20"
+		},
+		{
+			"id": "che02162020",
+			"name": "Monster Jam",
+			"date": "02-16-2020",
+			"time": "1:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/monsterjam20"
+		},
+		{
+			"id": "che02212020",
+			"name": "OKC Thunder vs. Denver Nuggets",
+			"date": "02-21-2020",
+			"time": "7:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/022120okcthunder"
+		},
+		{
+			"id": "che02232020",
+			"name": "OKC Thunder vs. San Antonio Spurs",
+			"date": "02-23-2020",
+			"time": "6:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/022320okcthunder"
+		},
+		{
+			"id": "che02272020",
+			"name": "OKC Thunder vs. Sacramento Kings",
+			"date": "02-27-2020",
+			"time": "7:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/022720okcthunder"
+		},
+		{
+			"id": "che03032020",
+			"name": "OKC Thunder vs. Los Angeles Clippers",
+			"date": "03-03-2020",
+			"time": "7:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/030320okcthunder"
+		},
+		{
+			"id": "che03062020",
+			"name": "Lauren Daigle",
+			"date": "03-06-2020",
+			"time": "7:30pm",
+			"info": "https://www.chesapeakearena.com/events/detail/laurendaigle"
+		},
+		{
+			"id": "che03112020",
+			"name": "OKC Thunder vs. Utah Jazz",
+			"date": "03-11-2020",
+			"time": "7:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/031120okcthunder"
+		},
+		{
+			"id": "che03132020",
+			"name": "OKC Thunder vs. Minnesota Timberwolves",
+			"date": "03-13-2020",
+			"time": "7:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/031320okcthunder"
+		},
+		{
+			"id": "che03202020",
+			"name": "OKC Thunder vs. Denver Nuggets",
+			"date": "03-20-2020",
+			"time": "7:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/032020okcthunder"
+		},
+		{
+			"id": "che03262020",
+			"name": "OKC Thunder vs. Charlotte Hornets",
+			"date": "03-26-2020",
+			"time": "7:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/032620okcthunder"
+		},
+		{
+			"id": "che04012020",
+			"name": "OKC Thunder vs. Phoenix Suns",
+			"date": "04-01-2020",
+			"time": "7:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/040120okcthunder"
+		},
+		{
+			"id": "che04072020",
+			"name": "OKC Thunder vs. Brooklyn Nets",
+			"date": "04-07-2020",
+			"time": "7:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/040720okcthunder"
+		},
+		{
+			"id": "che04102020",
+			"name": "OKC Thunder vs. New York Knicks",
+			"date": "04-10-2020",
+			"time": "7:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/041020okcthunder"
+		},
+		{
+			"id": "che04132020",
+			"name": "OKC Thunder vs. Utah Jazz",
+			"date": "04-13-2020",
+			"time": "7:00pm",
+			"info": "https://www.chesapeakearena.com/events/detail/041320okcthunder"
+		},
+		{
 			"id": "cox09272019",
 			"name": "CannaCon",
 			"date": "09-27-2019",
@@ -293,6 +559,55 @@
 			"date": "11-21-2019",
 			"time": "7:00 PM",
 			"info": "https://www.coxconventioncenter.com/events/detail/dug-midcontinent-conference"
+		},
+		{
+			"id": "cox1282019",
+			"name": "Oklahoma Bridal & Wedding Expo",
+			"date": "12-8-2019",
+			"time": "12:00 PM",
+			"info": "https://www.coxconventioncenter.com/events/detail/oklahoma-bridal-wedding-expo"
+		},
+		{
+			"id": "cox12132019",
+			"name": "MagicFest Oklahoma City",
+			"date": "12-13-2019",
+			"time": "7:00 PM",
+			"info": "https://www.coxconventioncenter.com/events/detail/magicfest-oklahoma-city"
+		},
+		{
+			"id": "cox12142019",
+			"name": "MagicFest Oklahoma City",
+			"date": "12-14-2019",
+			"time": "7:00 PM",
+			"info": "https://www.coxconventioncenter.com/events/detail/magicfest-oklahoma-city"
+		},
+		{
+			"id": "cox12152019",
+			"name": "MagicFest Oklahoma City",
+			"date": "12-15-2019",
+			"time": "7:00 PM",
+			"info": "https://www.coxconventioncenter.com/events/detail/magicfest-oklahoma-city"
+		},
+		{
+			"id": "cox0362019",
+			"name": "Trolls LIVE!",
+			"date": "03-6-2019",
+			"time": "6:30 PM",
+			"info": "https://www.coxconventioncenter.com/events/detail/trollslive"
+		},
+		{
+			"id": "cox0372019",
+			"name": "Trolls LIVE!",
+			"date": "03-7-2019",
+			"time": "10:00 AM",
+			"info": "https://www.coxconventioncenter.com/events/detail/trollslive"
+		},
+		{
+			"id": "cox0382019",
+			"name": "Trolls LIVE!",
+			"date": "03-8-2019",
+			"time": "12:00 PM",
+			"info": "https://www.coxconventioncenter.com/events/detail/trollslive"
 		}
 	]
 }

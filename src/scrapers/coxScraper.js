@@ -5,6 +5,7 @@ const dateParser = require("../util/dateParser");
 const url = "https://www.coxconventioncenter.com/events";
 const screenWidth = 1280;
 const screenHeight = 800;
+const timeout = 1000;
 
 /**
  * Scrapes the cox convention center calendar for events for each month
@@ -28,7 +29,10 @@ module.exports = async function scrapeFor(months, headless = true) {
     });
 
     async function scrapeData() {
-      logger(`scraping data...`);
+      let month = await page.evaluate(() => {
+        return document.querySelector(".cal-month").innerText;
+      });
+      logger(`Scraping data for ${month}`);
       const results = await page.evaluate(() => {
         let data = [];
         let events = document.querySelectorAll(".fc-content");
@@ -50,9 +54,11 @@ module.exports = async function scrapeFor(months, headless = true) {
     }
 
     async function clickNext() {
-      logger(`navigating to the next page`);
       await page.click(".cal-next");
-      await page.waitFor(".fc-content");
+      await page.waitFor(".fc-content", { timeout: timeout }).catch(() => {
+        logger(`This month does not contain events`);
+      });
+      logger(`navigating to the next page`);
     }
 
     function parseDates(events) {

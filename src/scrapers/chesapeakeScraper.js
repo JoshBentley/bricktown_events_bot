@@ -4,6 +4,7 @@ const logger = require("../util/logger");
 const url = "https://www.chesapeakearena.com/events/calendar/";
 const screenWidth = 1280;
 const screenHeight = 800;
+const timeout = 1000;
 
 /**
  * Scrapes the chesapeake energy arena calendar for events for each month
@@ -28,7 +29,10 @@ module.exports = async function scrapeFor(months, headless = true) {
     });
 
     async function scrapeData() {
-      logger(`scraping data...`);
+      let month = await page.evaluate(() => {
+        return document.querySelector(".month_name").innerText;
+      });
+      logger(`Scraping data for ${month}`);
       const results = await page.evaluate(() => {
         let data = [];
         let events = document.querySelectorAll(".hasEvent");
@@ -50,9 +54,11 @@ module.exports = async function scrapeFor(months, headless = true) {
     }
 
     async function clickNext() {
-      logger(`navigating to the next page`);
       await page.click(".cal-next");
-      await page.waitFor(".hasEvent");
+      await page.waitFor(".hasEvent", { timeout: timeout }).catch(() => {
+        logger(`This month does not contain events`);
+      });
+      logger(`navigating to the next page`);
     }
 
     let results = [];
