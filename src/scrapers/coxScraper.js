@@ -63,7 +63,7 @@ module.exports = async function scrapeFor(months, headless = true) {
 
     function parseDates(events) {
       events.forEach(event => {
-        event.date = dateParser(event.date);
+        event.date = new Date(dateParser(event.date)).toLocaleDateString();
       });
     }
 

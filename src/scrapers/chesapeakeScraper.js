@@ -38,6 +38,7 @@ module.exports = async function scrapeFor(months, headless = true) {
         let events = document.querySelectorAll(".hasEvent");
         events.forEach(event => {
           let date = event.getAttribute("data-fulldate");
+          date = new Date(date).toLocaleDateString();
           let id = "che" + date.split("-").join("");
           // let id = event
           //   .querySelector(".event_item")

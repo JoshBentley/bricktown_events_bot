@@ -26,3 +26,5 @@ async function runScraper() {
     console.error(err);
   }
 }
+
+main();
