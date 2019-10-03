@@ -3,7 +3,7 @@ const coxScraper = require("./scrapers/coxScraper");
 const logger = require("./util/logger");
 const saveToJson = require("./util/saveToJson");
 
-const months = 3;
+const months = 12;
 
 function main() {
   runScraper()
@@ -26,3 +26,5 @@ async function runScraper() {
     console.error(err);
   }
 }
+
+main();

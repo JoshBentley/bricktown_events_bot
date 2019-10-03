@@ -63,13 +63,13 @@ module.exports = async function scrapeFor(months, headless = true) {
 
     function parseDates(events) {
       events.forEach(event => {
-        event.date = dateParser(event.date);
+        event.date = new Date(dateParser(event.date)).toLocaleDateString();
       });
     }
 
     function addIds(events) {
-      events.forEach(event => {
-        event.id = `cox${event.date.split("-").join("")}`;
+      events.forEach((event, i) => {
+        event.id = `cox${event.date.split("/").join("")}${i}`;
       });
     }
 
